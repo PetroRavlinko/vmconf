@@ -1,0 +1,6 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+site :opscode
+
+cookbook "apt", "= 2.0.0"
